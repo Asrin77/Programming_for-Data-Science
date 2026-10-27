@@ -1,11 +1,11 @@
 #exercise 7
 
 students = [
-    {"name": "Satoru", "department": "CSE", "marks": 85, "attendance": 92},
-    {"name": "Sasuke", "department": "CSE", "marks": 98, "attendance": 76},
-    {"name": "Eren", "department": "DS", "marks": 91, "attendance": 95},
-    {"name": "Tomoe", "department": "DS","marks": 87, "attendance": 84},
-    {"name": "Yamada", "department": "CSE", "marks": 93, "attendance": 78}
+    {"name": "Rahim", "department": "CSE", "marks": 85, "attendance": 92},
+    {"name": "Karim", "department": "CSE", "marks": 48, "attendance": 76},
+    {"name": "Sara", "department": "DS", "marks": 91, "attendance": 95},
+    {"name": "Nadia", "department": "DS","marks": 87, "attendance": 84},
+    {"name": "Hasan", "department": "CSE", "marks": 73, "attendance": 78}
     ]
 
 
