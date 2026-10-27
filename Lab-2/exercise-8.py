@@ -1,10 +1,10 @@
 #exercise 8
 
 products = [
-    {"name": "Jiji", "price": 920, "quantity": 3},
-    {"name": "key chains", "price": 200, "quantity": 5},
+    {"name": "Notebook", "price": 120, "quantity": 3},
+    {"name": "Pen", "price": 20, "quantity": 5},
     {"name": "USB Drive", "price": 850, "quantity": 2},
-    {"name": "Hello kitty", "price": 650, "quantity": 1}
+    {"name": "Mouse", "price": 650, "quantity": 1}
     ]
 
 price = []
